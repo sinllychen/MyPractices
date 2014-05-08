@@ -1,4 +1,4 @@
-public class LeetCode_02_EvaluateReversePolishNotation {
+public class LeetCode_02 {
     public int evalRPN(String[] tokens) {
        Stack<Integer> s=new Stack<Integer>();
 		int num=0;
