@@ -1,4 +1,4 @@
-public class LeetCode_01_ReverseWords {
+public class LeetCode_01 {
     public String reverseWords(String s) {
     
        String[] str=s.trim().split("\\s+");
