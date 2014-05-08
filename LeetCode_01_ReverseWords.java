@@ -12,4 +12,9 @@ public class LeetCode_01_ReverseWords {
        }
        return buf.toString().trim();
     }
+    pubic static void main(String[] args)
+   {
+      String s= "the sky is blue";
+      System.out.println(reverseWords(s));
+    }
 }
